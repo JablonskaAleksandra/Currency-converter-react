@@ -1,0 +1,15 @@
+.select {
+    background-color: hsl(322, 65%, 70%);
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 20px;
+    padding: 10px;
+    border-style: none;
+    border-radius: 10px;
+    width: 50%;
+  }
+  
+  .select:hover {
+    background-color: hsl(322, 65%, 60%);
+  }
+  
